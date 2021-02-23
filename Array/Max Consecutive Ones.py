@@ -1,3 +1,5 @@
+# Given an array nums of integers, return how many of them contain an even number of digits.
+
 class Solution:
     def findMaxConsecutiveOnes(self, nums: List[int]) -> int:
         length = len(nums)
